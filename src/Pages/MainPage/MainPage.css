@@ -1,0 +1,6 @@
+.page-body {
+  /* height: auto; */
+  display: flex;
+  height: 86vh !important;
+  margin: 20px;
+}

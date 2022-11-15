@@ -1,0 +1,25 @@
+.main {
+  width: 68%;
+  height: auto;
+  padding: 30px;
+}
+.main-header {
+  width: 100%;
+}
+.main-header h1 {
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  word-spacing: 3px;
+}
+.main-header p {
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(156, 153, 153);
+}
+.cards {
+  display: flex;
+  height: 87%;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
